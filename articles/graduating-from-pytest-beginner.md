@@ -2,7 +2,7 @@
 title: "【今日から使える】pytestを入門した人に送る実践的なTips7選"
 emoji: "🦖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["pytest", "python", "python3"]
+topics: ["pytest", "python", "python3", "test"]
 published: true
 publication_name: open8
 ---
