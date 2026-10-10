@@ -3,7 +3,7 @@ title: "「うん」と言うたびに黙る音声AIが、GPT-Liveに替えた�
 emoji: "🎙️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["openai", "gptlive", "realtimeapi", "webrtc", "ai"]
-published: false
+published: true
 ---
 
 1on1の練習アプリ「キクレン」で、相談者役の音声AIを実装しています。この記事は、相談者役の音声AIのバックエンドをOpenAIのRealtime APIから、[2026年9月10日にAPIでGAになった](https://developers.openai.com/api/docs/changelog)GPT-Live（`gpt-live-1`）へ切り替えたときの記録です。
