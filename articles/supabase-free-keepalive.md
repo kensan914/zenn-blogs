@@ -1,5 +1,5 @@
 ---
-title: "Supabase Freeの自動pauseを$0で防ぐ"
+title: "無料のSupabaseは、7日放置すると止まる"
 emoji: "💤"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["supabase", "vercel", "nextjs", "postgresql", "cron"]
