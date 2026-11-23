@@ -3,7 +3,7 @@ title: "AIに全プロジェクトのCIを止められた"
 emoji: "💸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["githubactions", "claudecode", "aiagent", "ci", "github"]
-published: false
+published: true
 ---
 
 1on1の練習アプリ「キクレン」を共同で制作しています。実装担当は私で、Issueの起票からPR作成、レビュー、修正までの多くをAIエージェント（実装はClaude Code、レビューはCodex）に回してもらっています。
